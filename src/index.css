@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #3f3f3f;
+  direction: rtl;
+}
+
+.video-conference-app {
+  display: grid;
+  grid-template-columns: 1fr 9fr;
+  height: calc(100% - 100px);
+}
+
+.video-conference-layout-wrapper{
+  direction: rtl;
+}
+
+.root-container{
+  height: 100vh;
+}

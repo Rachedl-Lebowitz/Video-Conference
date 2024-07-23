@@ -1,0 +1,57 @@
+{
+    "users": {
+        "judges": [
+            {
+                "id": 984690,
+                "type": "speaker",
+                "name": "Haim",
+                "path": "man1",
+                "isMicrophoneOpen": true
+            },
+            {
+                "id": 984690,
+                "type": "speaker",
+                "name": "Haim",
+                "path": "man1",
+                "isMicrophoneOpen": true
+            }
+        ],
+        "responders": [
+            {
+                "id": 984678,
+                "name": "Rachel",
+                "type": "Me - side 1",
+                "path": "man2",
+                "isMicrophoneOpen": false
+            },
+            {
+                "id": 984690,
+                "type": "side 2",
+                "name": "Moshe",
+                "path": "man3",
+                "isMicrophoneOpen": true
+            },
+            {
+                "id": 984678,
+                "name": "Yosef",
+                "type": "Me - side 1",
+                "path": "man2",
+                "isMicrophoneOpen": false
+            },
+            {
+                "id": 984690,
+                "type": "side 2",
+                "name": "Moshe",
+                "path": "man3",
+                "isMicrophoneOpen": true
+            },
+            {
+                "id": 984678,
+                "name": "Yosef",
+                "type": "Me - side 1",
+                "path": "man2",
+                "isMicrophoneOpen": false
+            }
+        ]
+    }
+}

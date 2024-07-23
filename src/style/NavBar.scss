@@ -1,0 +1,28 @@
+@import "_variables";
+
+.video-nav-bar-wrapper {
+  background-color: rgb(0 90 158 / 16%);
+  color: $white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+
+  .nav-bar-list {
+    .MuiChip-root.MuiChip-filled {
+      flex-direction: column;
+      height: 50px;
+      background-color: inherit;
+
+      .MuiBadge-badge.MuiBadge-standard {
+        background-color: white;
+        color: black;
+      }
+    }
+  }
+
+  .chip-leave {
+    color: red;
+    cursor: pointer;
+  }
+}
